@@ -15,6 +15,8 @@ git add             // add new files
 git commit -m "**"  // commit change
 git push --set-upstream origin [branch]               // if you cannot push
 git pull [url] [branch] --allow-unrelated-histories   // if you cannot pull
+git rm [file_name]  // git remove a file
+git checkout [branch]  // change to another branch
 
 Notices:
 a. if you or other contributers changed some part of the file of your repository, remember to git pull first
