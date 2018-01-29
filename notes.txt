@@ -1,0 +1,7 @@
+1. a easy way to config your github and local directory
+- sign up on github
+- create a new repository following the instructions on github
+open terminal if your use MacOS
+~ cd [where you want to clone your remote repository]
+~ git clone [url/which you can find on the github]
+done!
